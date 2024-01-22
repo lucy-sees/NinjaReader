@@ -1,0 +1,2 @@
+# NinjaReader
+ NinjaReader is a dynamic online platform dedicated to book enthusiasts. It offers a vast selection of books across various genres, enabling users to browse, review, and purchase their favorite reads with ease. The repository contains the source code for the website, including the user interface, database interactions, and payment processing modules. It's designed with a focus on user experience, ensuring a seamless journey from book discovery to purchase. Contributions to enhance its features and improve its performance are welcome.
